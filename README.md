@@ -29,15 +29,15 @@ My hands-on experience extends to a variety of tools, including IntelliJ, VSCode
 
 - 🌱 I’m currently learning --> **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at --> (https://github.com/Sourabh1028)
+- 👨‍💻 All of my projects are available at --> (https://github.com/Anish1430)
 
-- 📝 I often write articles on --> (https://www.linkedin.com/in/msourabh/)
+- 📝 I often write articles on --> (https://www.linkedin.com/in/anish-sharma1430/)
 
 - 💬 Ask me about --> **Java, Spring Boot, DSA, OOP, MySQL**
 
-- 📫 How to reach me --> **msourabh631@gmail.com**
+- 📫 How to reach me --> **Anish.kumar20071998@gmail.com**
 
-- 📄 Resume --><a href="https://drive.google.com/file/d/1eVg_dLvRAvolCeEk3h2YqQr4Nrstxcel/view?usp=drive_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+- 📄 Resume --> [https://docs.google.com/document/d/1ZDpjOWRWEU2zrrnSxssum-bplJGMsNvi/edit?usp=sharing&ouid=103542900898064520712&rtpof=true&sd=true](https://docs.google.com/document/d/1ZDpjOWRWEU2zrrnSxssum-bplJGMsNvi/edit?usp=sharing&ouid=103542900898064520712&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +45,7 @@ My hands-on experience extends to a variety of tools, including IntelliJ, VSCode
 <a href="https://www.hackerrank.com/msourabh631?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/msourabh631?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/msourabh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/msourabh/" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
