@@ -9,7 +9,7 @@
 
 <h2> DESCRIPTION</h2>
 
-<h3> Dedicated software developer with expertise in Core Java, Spring Boot, Object-Oriented Programming (OOP), and SQL. Proficient in designing and implementing intricate systems, adept at debugging and creative problem-solving. Passionate about crafting clean and efficient code, I have successfully completed numerous projects leveraging Java and Spring Boot.
+<h3> Dedicated software developer with expertise in Core Java, Spring Boot, Object-Oriented Programming System(OOP's), and SQL. Proficient in designing and implementing intricate systems, adept at debugging and creative problem-solving. Passionate about crafting clean and efficient code, I have successfully completed numerous projects leveraging Java and Spring Boot.
 My hands-on experience extends to a variety of tools, including IntelliJ, VSCode, AWS, Postman, Swagger, and more. Committed to staying at the forefront of technology, I am continually expanding my knowledge base to bring innovative solutions to the projects I undertake.</h3>
 <h2>Tools Used</h2>
 
@@ -33,7 +33,7 @@ My hands-on experience extends to a variety of tools, including IntelliJ, VSCode
 
 - 📝 I often write articles on --> (https://www.linkedin.com/in/anish-sharma1430/)
 
-- 💬 Ask me about --> **Java, Spring Boot, DSA, OOP, MySQL**
+- 💬 Ask me about --> **Java, Spring Boot, DSA, OOP's, MySQL**
 
 - 📫 How to reach me --> **Anish.kumar20071998@gmail.com**
 
