@@ -7,6 +7,7 @@
 <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g">
 </h3>
 
+<h3> align="center"</h3>
 
 <h3> 🚀 Software Developer | Java & Spring Boot Specialist
 
