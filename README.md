@@ -9,7 +9,8 @@
 
 <h2> DESCRIPTION</h2>
 
-<h3>🚀 Experienced Software Developer | Java & Spring Boot Specialist
+<h3> 🚀 Software Developer | Java & Spring Boot Specialist
+
 
 🌟 About Me
 
