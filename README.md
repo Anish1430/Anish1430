@@ -53,7 +53,7 @@ Let's collaborate and create something amazing together!</h3>
 
 - 💬 Ask me about --> **Java, Spring Boot, DSA, OOP's, MySQL**
 
-  - 📄 Resume --> ([https://1drv.ms/b/c/b2b680661b2c39fa/EeoMr_Hm9E5GtcZ1zXxC7LcBCFwgHFSMIQntzYv99-w7PQ?e=a2RQTz])
+  - 📄 Resume --> [https://1drv.ms/b/c/b2b680661b2c39fa/EeoMr_Hm9E5GtcZ1zXxC7LcBCFwgHFSMIQntzYv99-w7PQ?e=a2RQTz]
 
 - 📫 How to reach me --> **Anish.kumar20071998@gmail.com**
 
